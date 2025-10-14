@@ -1,4 +1,4 @@
-# SmartAadhaar - ServiceNow Integration Script Include
+# Aadhaar Integration - ServiceNow Integration
 
 A **production-ready ServiceNow Script Include** for **Aadhaar verification** and **eKYC**, utilizing a **Connection & Credential Alias** for secure, secret-free integration.
 

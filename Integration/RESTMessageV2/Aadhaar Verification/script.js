@@ -1,6 +1,5 @@
 /**
  * Name: Aadhaar
- * Type: Script Include (server-side, global)
  * Purpose: Complete Aadhaar verification wrapper via REST using Connection & Credential Alias
  *
  * Features:
